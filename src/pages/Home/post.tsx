@@ -81,7 +81,6 @@ export const Post = (props: Props) => {
 
   return (
     <div>
-      <h1>Post</h1>
       <div>
         <h2>{post.title}</h2>
         <p>{post.description}</p>
